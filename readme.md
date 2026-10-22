@@ -1,11 +1,11 @@
-## About Me
+## Hai there! I'm pro567722,
 
+## About Me
 - Aiming to be a software/AI engineer
 - I have mixed views on the use of AI in code - good for help, but not good if you're using it blindly.
 - Learning Python
 
 ## Languages I Know
-
 - Python (Basic) (learning)
 - LuaU (Above average) (learning)
 - JavaScript (Beginner) (learning)
